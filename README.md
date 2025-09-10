@@ -1,7 +1,5 @@
 # ALK_Variants_In_Neuroblastoma
 Neuroblastoma-associated ALK variants have distinct cellular and biochemical activities 
-# Abstract
-Mutations in anaplastic lymphoma kinase (ALK) are associated with high-risk neuroblastoma, a childhood cancer arising in trunk neural crest (NC) cells. The role of ALK in undifferentiated NC is still unknown; however, the presence of activating mutations in ALK correlates with migratory and invasive cell behaviours in neuroblastoma cell lines. Here, we show the functional consequences of ALK overexpression on neural crest cells, by comparing wildtype ALK (ALKWT) protein to ALK gain-of-function variants ALKF1174L and ALKR1275Q. Elevated ALK activity leads to increased migration velocity and loss of directionality, while ALKF1174L overexpression presents additional effects on cytoskeletal protrusions. These results correlate with increased binding of ALKF1174L to GSK3, which has previously been shown to regulate cytoskeletal dynamics in neural crest cells. Further, molecular dynamics simulations of this complex shows high flexibility, suggestive of enhanced allosteric regulation. Together, our data suggests that activating mutations in ALK drive migratory changes in trunk NC cells, potentially mediated by its novel interacting partner GSK3.
 
 # Repository Contents
 raw_data – Unprocessed data from molecular dynamics (MD) simulations and structural modeling.
