@@ -2,7 +2,7 @@
 Neuroblastoma-associated ALK variants have distinct cellular and biochemical activities 
 
 # Repository Contents
-raw_data – Unprocessed data from molecular dynamics (MD) simulations and structural modeling.
+raw_data / – Unprocessed data from molecular dynamics (MD) simulations and structural modeling.
 simulation_inputs: – Input coordinate and parameter files (PDB, topology, force field, docking files, etc.).
 simulation_outputs: – Processed MD trajectories, RMSD/RMSF analyses, radius of gyration values, and other derived metrics.
 figures_data: – Data underlying figures shown in the main manuscript and supporting information.
