@@ -33,14 +33,14 @@ For complete protocols, see the Supporting Information (SI) included with the ma
 
 
 ## How to Use This Repository
-# Clone the repo:
+## Clone the repo:
 git clone https://github.com/lutimbastuart/ALK_Variants_In_Neuroblastoma.git
 cd ALK_Variants_In_Neuroblastoma
 
-# Explore data:
+## Explore data:
 Simulation trajectories (simulation_outputs/) can be loaded into VMD, PyMOL, ChimeraX, or MDAnalysis.
 
 
-# Cite this work:
+## Cite this work:
 If you use these datasets, please cite:
 Wulf AM, Lutimba S, Cameron D, Desjardins J, Shaw T, Rossetti L, Mansour MA, Liu KJ. Neuroblastoma-associated ALK variants have distinct cellular and biochemical activities. (2025).
